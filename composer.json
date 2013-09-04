@@ -1,0 +1,11 @@
+{
+    "require": {
+        "easyframework/collections": "2.1.*",
+        "symfony/debug": "2.3.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
